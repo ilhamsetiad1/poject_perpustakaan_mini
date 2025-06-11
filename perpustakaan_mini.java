@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+import java.io.*;
 public class perpustakaan_mini {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
